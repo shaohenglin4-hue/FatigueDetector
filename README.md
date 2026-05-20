@@ -1,4 +1,4 @@
-# 🚗 FatigueDetector (车载疲劳驾驶监控系统)
+# 🚗 EdgeDrowsy-Android (车载疲劳驾驶监控系统)
 
 ## 📖 项目简介
 本项目是一个基于 Android 端侧计算的实时疲劳驾驶检测系统。系统通过设备前置摄像头，结合 Google MediaPipe 视觉模型提取面部特征点，实时计算眼睛纵横比 (EAR, Eye Aspect Ratio)，从而判定驾驶员的疲劳状态并触发音频警报。
